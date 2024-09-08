@@ -7,7 +7,7 @@ Je suis un pseudo développeur, je m'intéresse plus au design ^^
 
 📈 Mes statistiques GitHub
 
-📫 Où me trouver
+📫 Où me trouver 
 Discord : @refresh4ever
 Twitter : @refresh4ever
 Instagram : @refreshsurinsta
