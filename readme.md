@@ -4,7 +4,7 @@
 - Javascript  
 - UX/UI
 
-**Contact**
+**Contact**   
 Tu veux discuter, échanger sur un projet ou juste dire bonjour ?  
  📬 **hello.refresh4ever@gmail.com**
 
