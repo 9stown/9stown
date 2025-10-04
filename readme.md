@@ -6,8 +6,7 @@
 
 **Contact**
 Tu veux discuter, échanger sur un projet ou juste dire bonjour ?  
-
-📬 **hello.refresh4ever@gmail.com**
+ 📬 **hello.refresh4ever@gmail.com**
 
 
 **Où me trouver**
