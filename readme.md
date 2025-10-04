@@ -1,10 +1,20 @@
-Salut, je suis Refresh 👋  
-Je suis un pseudo développeur, je m'intéresse plus au design ^^  
+# 👋 Salut, moi c’est Stown  
 
-🌱 J'apprends actuellement le Javascript  
-📚 Tu peux me contacter à l'adresse : hello.refresh4ever@gmail.com  
+---
 
-📬 Où me trouver :  
-Discord : @refresh4ever  
-Twitter : @refresh4ever  
-Instagram : @refreshsurinsta
+## Actuellement, j'apprends :
+- Javascript  
+- UX/UI
+
+---
+
+## Contact
+Tu veux discuter, échanger sur un projet ou juste dire bonjour ?  
+📬 **hello.refresh4ever@gmail.com**
+
+---
+
+## Où me trouver
+- 🪩 **Discord** : `@9stown`  
+- 🐦 **Twitter** : [@9stown](https://twitter.com/9stown)  
+- 📸 **Instagram** : [@9stown](https://instagram.com/9stown)
