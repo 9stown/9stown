@@ -10,6 +10,6 @@ Tu veux discuter, échanger sur un projet ou juste dire bonjour ?
 
 
 **Où me trouver**
-- 🪩 **Discord** : `@9stown`  
-- 🐦 **Twitter** : [@9stown](https://twitter.com/9stown)  
-- 📸 **Instagram** : [@9stown](https://instagram.com/9stown)
+-  **Discord** : `@9stown`  
+-  **Twitter** : [@9stown](https://twitter.com/9stown)  
+-  **Instagram** : [@9stown](https://instagram.com/9stown)
